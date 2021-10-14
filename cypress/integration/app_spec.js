@@ -1,4 +1,5 @@
 describe('Sign Up', () => {
+  //integration app spec
   it('Adds person to course', () => {
     cy.visit('/')
 
